@@ -1,0 +1,3 @@
+import sss
+
+sss.laugh()
